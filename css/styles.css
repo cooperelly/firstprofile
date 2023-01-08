@@ -1,0 +1,45 @@
+body{
+    background-color:  #F8F2F1;
+}
+
+hr { 
+    border-style:  none;
+    width: 5%;
+    border-top: 12px dotted #DFD3C3;                                        
+}
+
+h1{
+    color: #815B5B;
+    font-family: garamond, serif;
+    text-decoration: overline;
+    letter-spacing: 2px;
+}
+
+h2{
+    color: #AD8E70;
+    font-family: garamond, serif;
+    letter-spacing: 2px;
+}
+p{
+    font-family: georgia, serif;
+    letter-spacing: 2px;
+}
+
+.project_img:hover {
+    opacity: 0.7;
+}
+
+a{
+    font-size: 17px;
+    text-decoration: none;
+    color: #9b0202;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+a:hover{
+    color: #F2D388;
+}
+
+td{
+    letter-spacing: 2px;
+}
